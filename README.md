@@ -1,7 +1,6 @@
 ### Olá! Me chamo Fernando Martins, prazer!!
 
 <div>
-  <a href="https://beacons.ai/barbarasts">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devfernandomartins&show_icons=true&theme=transparent"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfernandomartins&layout=compact&langs_count=16&theme=transparent"/>
 </div>
