@@ -1,18 +1,24 @@
-### Olá! Me chamo Fernando Martins, prazer!!
+### Hi, my name is Fernando
 
-<div class="div" align="center">
-  <a href="https://github.com/DevFernandoMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFernandoMartins&show_icons=true&bg_color=0A0C10&text_color=F0F3F6&hide_border=fff&title_color=60B7FF&icon_color=60B7FF&border_color=0A0C10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFernandoMartins&layout=compact&bg_color=0A0C10&text_color=F0F3F6&title_color=60B7FF&icon_color=60B7FF&border_color=0A0C10&hide_border=fff)](https://github.com/Kato2004/github-readme-stats"/>
+👋I'm a computer engineering student at SENAC SP (National Service for Commercial Learning) 
+
+💻I like programming, quantum computing, artificial intelligence, robotics...
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,azure,linux,windows,vscode,mysql,sklearn,tensorflow,raspberrypi,arduino"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp"/>
 </div>
 
-  
+</br>
 
-##
-  
-<div>
-  <a href="https://instagram.com/devfernandomartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fe.092006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-martins-892853250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  
+<details align="center">
+  <summary>My stats :chart_with_upwards_trend:</summary>
+  <br/>
+  <a href="https://github.com/kkauadev" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevFernandoMartins&rank_icon=github&hide_title=true&card_width=300px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFernandoMartins&layout=compact&card_width=400px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&icon_color=2F81F7&hide_border=true" />
+  </a>
+</details>
