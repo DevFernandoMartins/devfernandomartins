@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c2c2c&height=120&section=header"/>
-
 ### Hi, my name is Fernando
 
 👋I'm a computer engineering student at SENAC SP (National Service for Commercial Learning) 
@@ -24,5 +22,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFernandoMartins&layout=compact&card_width=400px&show_icons=true&icon_color=2F81F7&bg_color=0D1117&title_color=2F81F7&text_color=f0f6fc&icon_color=2F81F7&hide_border=true" />
   </a>
 </details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c2c2c&height=120&section=footer"/>
