@@ -7,9 +7,9 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,linux,windows,vscode,mysql,sklearn,tensorflow,raspberrypi,arduino"/>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,linux,windows,apple,vscode,mysql,nodejs,tensorflow,raspberrypi,androidstudio,arduino"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,godot,lua,ts,vue"/>
 </div>
 
 </br>
